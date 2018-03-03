@@ -55,16 +55,16 @@ for i, t0 in enumerate(theta0_vals):
         J_values[i][j] = computeCost(X, t,y)
 
 X, Y = np.meshgrid(theta0_vals, theta1_vals)
-"""        
+
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 surf = ax.plot_surface(X, Y, J_values, cmap=cm.coolwarm,
                        linewidth=100, rcount=50, ccount=50)
 plt.show()
-"""
+
 
 #Visualize J values with different values for theta (2D contour plot)
-"""
+plt.figure()
 plt.contour(X,Y, J_values.T, np.logspace(-2,3,20))
 plt.scatter(theta[0], theta[1], 20, color='red', marker='x')
-"""
+plt.show()
