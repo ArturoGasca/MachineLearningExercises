@@ -1,0 +1,26 @@
+
+HELLO!!
+
+Hope you're all starting to settle into the New Year -- I celebrated with no internet at a remote campsite next to a glacier. It was awesome! BUT, I missed all of you and I'm super happy to be back. We had a wonderful year at dev.to and I'm really looking forward to 2018. 
+ 
+
+
+Here are our most popular posts from last week: 
+
+1. This Is How Meltdown Works: an engaging explanation of the meltdown and spectre security vulnerabilities.
+
+2. A Unicode Substitution Cipher Algorithm: how the author used the Caeser Cipher concept to build uni-pretty, a tool that lets you convert characters into unicode characters.
+
+3. 11 React Examples: ReactJS projects of varying degrees of complexity. 
+
+4. Using Git Hooks To Improve Your Day-To-Day Workflow: explanation on how to set up git hooks and three useful examples.
+
+5. Future Proof your Footer's Copyright Date With The Current Year: a suggestion for those who update copyright dates every year and a discussion on whether or not you even need to.
+
+6. 100 Days Practicing TDD: five major takeaways from practicing test driven development for 100 days.
+
+7. The Miracle Of A Morning Routine: why waking up early improved this developer's life, and their side projects. 
+
+Happy Coding!
+
+Jess
